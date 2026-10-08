@@ -1,6 +1,6 @@
 # Vamsi Mocherla
 
-ML engineer working on agents, search and inference systems. At Wizard I own the conversational agent, search, catalog enrichment and the ML serving platform.
+ML engineer working on agents, search and inference systems. At Wizard I work across the conversational agent, search, catalog enrichment and the ML serving platform.
 
 [LinkedIn](https://www.linkedin.com/in/vamsimocherla/)
 
